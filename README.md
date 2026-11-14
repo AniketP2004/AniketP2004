@@ -70,11 +70,6 @@ Random Forest regression, **R² = 0.985**.
 
 ---
 
-## GitHub Stats
-
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AniketP2004&show_icons=true&theme=radical&hide_border=true" height="170" alt="GitHub stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AniketP2004&layout=compact&theme=radical&hide_border=true&hide=javascript,html,css" height="170" alt="Top languages" /> </div>
----
-
 ## Connect
 
 - GitHub: [@AniketP2004](https://github.com/AniketP2004)
